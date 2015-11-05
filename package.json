@@ -1,0 +1,24 @@
+{
+  "name": "node-postgres-knex",
+  "version": "1.0.0",
+  "description": "\"Testing out using postgres with knex\"",
+  "main": "db.js",
+  "dependencies": {
+    "knex": "^0.9.0",
+    "pg": "^4.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilaravi/node-postgres-knex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilaravi/node-postgres-knex/issues"
+  },
+  "homepage": "https://github.com/nikhilaravi/node-postgres-knex#readme"
+}
