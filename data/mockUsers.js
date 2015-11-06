@@ -1,3 +1,5 @@
+"use strict";
+
 module.exports = [
   {
     guid: 'a274751e-83ea-11e5-8bcf-feff819cdc9f',
