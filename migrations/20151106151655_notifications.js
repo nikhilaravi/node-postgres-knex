@@ -8,7 +8,7 @@ exports.up = function(knex, Promise) {
     notifications.string('type');
     notifications.json('body');
     notifications.boolean('read');
-    notifications.string('user_guid');
+    notifications.string('user_id');
     notifications.timestamp('time_stamp');
   })
 

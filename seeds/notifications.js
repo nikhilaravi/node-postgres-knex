@@ -1,4 +1,7 @@
+"use strict"
+
+var mockNotifications = require('./mockNotifications.js');
 
 exports.seed = function(knex, Promise) {
-  return 
+  return knex.schema.notifications.insert(mockNotifications)
 };
