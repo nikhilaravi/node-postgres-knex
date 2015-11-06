@@ -23,5 +23,28 @@ module.exports = [
     offers_by_email: false,
     offers_by_sms: false,
     enable_push_notifications: false
+  },
+  {
+    guid: '08def3f8-849d-11e5-8bcf-feff819cdc9f',
+    title: 'Mr',
+    email: 'ron@weasley.com',
+    mobile_number: '0898989898989',
+    referral_code: 'AAA',
+    username: 'RW',
+    first_name: 'Ron',
+    last_name: 'Weasley',
+    password: '1234',
+    date_of_birth: '2000-01-09',
+    ts_and_cs: true,
+    address: 'The Burrow',
+    postcode: 'HA2 2AF',
+    pin: 3377,
+    access_token: '123456789',
+    balance: 0,
+    use_touch_id: false,
+    use_pin: true,
+    offers_by_email: false,
+    offers_by_sms: false,
+    enable_push_notifications: false
   }
 ];
